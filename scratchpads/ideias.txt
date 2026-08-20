@@ -20,7 +20,9 @@ Feed de stories baseados nos interesses do usuario
 - conteudo dos jogadores escaladas no cartola
 - incluir publicidade (publicidade do premiere no cartola e virce versa)
 
-Feed ficaria no cartola, e no ao-vivo na premiere
+Feed ficaria no cartola, e no ao-vivo na premiere. Com conversao de linguagem (podemos colocar AI aqui). O feed do ao vivo na tv pode ter mais texto que o ao vivo do celular
+
+O usuário deve ter uma forma de opt-out.
 
 Probleams que resolvem:
-- Engajamento
+- Engajamento (editado)
