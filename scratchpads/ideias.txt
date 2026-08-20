@@ -1,0 +1,26 @@
+feed
+melhores momentos, IA para cortar os videos ao vivo. Por exemplo, push notification logo depois de um gol
+- Detectar atraves da narracao, onde o narrador comeca a gritar antes de um momento impactante entao podemos deterctar a variacao do audio
+- Consumir do webmedia
+Jornada orientada a time
+Scout do cartola no premiere hub
+rediracionamento cartole -> premiere, premiere -> cartola
+
+============
+Conceitos
+- personalizacao nao é feature, é estrutura
+
+objetivo: enriquecimento da experiencia do ao vivo com os dados do cartola, e experiencia do cartola com dados reais
+
+problema: pouca intergracao entre cartola e premiere
+
+Feed de stories baseados nos interesses do usuario
+- conteudo dos amigos do cartola
+- conteudo do time da pessoa
+- conteudo dos jogadores escaladas no cartola
+- incluir publicidade (publicidade do premiere no cartola e virce versa)
+
+Feed ficaria no cartola, e no ao-vivo na premiere
+
+Probleams que resolvem:
+- Engajamento
